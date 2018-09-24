@@ -12,6 +12,11 @@ public class Git_Test {
     }
 
 
+    public void  se(){
+        System.out.println("修改提交1");
+    }
+
+
     public  void rt(){
         System.out.println("safs");
     }
