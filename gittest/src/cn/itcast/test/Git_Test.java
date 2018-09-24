@@ -26,6 +26,8 @@ public class Git_Test {
 
 
         System.out.println("daadada333333333333333");
+
+        System.out.println("clone下来修改了1");
     }
 
 
