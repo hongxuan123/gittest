@@ -20,4 +20,8 @@ public class Git_Test {
     public  void rt(){
         System.out.println("safs");
     }
+
+    public void en(){
+        System.out.println("第二次修改");
+    }
 }
